@@ -16,9 +16,14 @@
     "serve": "^12.0.1",
     "tachyons": "^4.12.0",
     "tsparticles": "^1.35.1",
-    "web-vitals": "^1.1.2",
+    "web-vitals": "^1.1.2"
+    
+  },
+  "engines": {
     "node": "14.17.0"
   },
+
+  
   "scripts": {
     "start": "serve -s build",
     "build": "react-scripts build",
